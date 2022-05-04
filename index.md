@@ -1,8 +1,10 @@
 ---
-layout: page
-title: About
+layout: home
+title: CS 2952N
 nav_exclude: true
-description: Course policies and information.
+seo:
+  type: Course
+  name: Just the Class
 ---
 
 # Advanced Topics in Deep Learning
@@ -12,13 +14,13 @@ description: Course policies and information.
 ## Time and Location
 
 - Tuesday, Thursday 1:00-2:20 PM Eastern Time
-- Instructor: [Chen Sun](https://chensun.me) ([chen_sun4@brown.edu](mailto:chen_sun4@brown.edu))
+- Instructor: [Chen Sun](https://chensun.me) ([chen_sun4@brown.edu](mailto:chensun@brown.edu))
 - Office hour: By appointment
-- Classroom: CIT 101 (Will change on the 3rd week)
+- Classroom: MacMillan 115
 
 _In-class participation is **required** unless otherwise approved by the instructor._  
 _Zoom link can be found in the [course syllabus](https://docs.google.com/document/d/1ZD1yleR2QLsaJ1jIQ0M8NpKjzQquiVc3emE0F1cFzik/edit?usp=sharing)._  
-_Lectures will be recorded for asynchronous viewing, and livestreamed for students auditing._
+_Lectures will be recorded for asynchronous viewing, and livestreamed for students auditing ([sign up](https://forms.gle/y7do5vJ5GeqZiBdp7))._
 
 ## About
 
@@ -45,9 +47,10 @@ For details please refer to the [syllabus](https://docs.google.com/document/d/1Z
 
 - [Course syllabus](https://docs.google.com/document/d/1ZD1yleR2QLsaJ1jIQ0M8NpKjzQquiVc3emE0F1cFzik/edit?usp=sharing)
 - [Ed](https://edstem.org/us/courses/19870/discussion/)
-- [Presentation signup sheet]()
+- [Presentation signup sheet](https://forms.gle/DH4uV5JcJK5BjoFw8)
 - [Paper nomination form](https://forms.gle/keevGHpxqbgCK1QQ7)
 - [Anonymous feedback form](https://forms.gle/zkuABETFmgZ8FJf78)
+- [Auditing signup form](https://forms.gle/y7do5vJ5GeqZiBdp7)
 
 ## Academic Integrity & Collaboration Policy
 
@@ -56,7 +59,7 @@ Discussion of course material with your classmates is both permitted and encoura
 
 ## Diversity & Inclusion
 
-Our intent is that this course provides a welcoming environment for all students who satisfy the prerequisites. Our TAs have undergone training in diversity and inclusion, and all members of the CS community, including faculty and staff, are expected to treat one another in a professional manner. If you feel you have not been treated in a professional manner by any of the course staff, please contact either the instructor, Ugur Cetintemel (Dept. Chair), Tom Doeppner (Vice Chair) or Laura Dobler (diversity & inclusion staff member). We will take all complaints about unprofessional behavior seriously.  
+Our intent is that this course provides a welcoming environment for all students who satisfy the prerequisites. All members of the CS community, including faculty and staff, are expected to treat one another in a professional manner. If you feel you have not been treated in a professional manner by any of the course staff, please contact either the instructor, Ugur Cetintemel (Dept. Chair), Tom Doeppner (Vice Chair) or Laura Dobler (diversity & inclusion staff member). We will take all complaints about unprofessional behavior seriously.  
 Brown welcomes students from all around the country and the world, and their unique perspectives enrich our learning community. To empower students whose first language is not English, an array of support is available on campus, including language and culture workshops and individual appointments. For more information, contact the English Language Learning Specialists at ellwriting@brown.edu.
 
 ## Accomodations
@@ -67,3 +70,4 @@ Brown University is committed to full inclusion of all students. Please inform t
 ## Mental Health
 
 Being a student can be very stressful. If you feel you are under too much pressure or there are psychological issues that are keeping you from performing well at Brown, we encourage you to contact Brown’s Counseling and Psychological Services (CAPS). They provide confidential counseling and can provide notes supporting extensions on assignments for health reasons.
+
